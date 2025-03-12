@@ -27,6 +27,8 @@
     //
     // https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer
     "rust-lang.rust-analyzer",
+    // https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml
+    "tamasfe.even-better-toml",
     // https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb
     "vadimcn.vscode-lldb",
 
