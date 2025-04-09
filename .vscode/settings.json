@@ -14,31 +14,31 @@
   // Copilot Next Edit Suggestions (Preview)
   // https://code.visualstudio.com/updates/v1_97#_copilot-next-edit-suggestions-preview
   //
-  "github.copilot.nextEditSuggestions.enabled": false,
+  "github.copilot.nextEditSuggestions.enabled": true,
 
   //
   // JSON/JSONC
   //
   "[json]": {
-    "editor.detectIndentation": true,
-    "editor.formatOnPaste": false,
-    "editor.formatOnSave": false,
-    "editor.formatOnType": false
+      "editor.detectIndentation": true,
+      "editor.formatOnPaste": false,
+      "editor.formatOnSave": false,
+      "editor.formatOnType": false
   },
   "[jsonc]": {
-    "editor.detectIndentation": true,
-    "editor.formatOnPaste": false,
-    "editor.formatOnSave": false,
-    "editor.formatOnType": false
+      "editor.detectIndentation": true,
+      "editor.formatOnPaste": false,
+      "editor.formatOnSave": false,
+      "editor.formatOnType": false
   },
 
   //
   // Rust
   //
   "[rust]": {
-    "editor.defaultFormatter": "rust-lang.rust-analyzer",
-    "editor.formatOnPaste": true,
-    "editor.formatOnSave": true,
-    "editor.formatOnType": true
+      "editor.defaultFormatter": "rust-lang.rust-analyzer",
+      "editor.formatOnPaste": true,
+      "editor.formatOnSave": true,
+      "editor.formatOnType": true
   }
 }
